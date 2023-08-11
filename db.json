@@ -1,0 +1,113 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "status": "declined",
+      "user": {
+        "id": 0,
+        "name": "Ester",
+        "lastName": "Mejia",
+        "phone": "+353 (876) 516-3041",
+        "email": "estermejia@kraggle.com"
+      },
+      "role": "Standard"
+    },
+    {
+      "id": 1,
+      "status": "request",
+      "user": {
+        "id": 1,
+        "name": "Kerri",
+        "lastName": "Francis",
+        "phone": "+353 (904) 495-2315",
+        "email": "kerrifrancis@kraggle.com"
+      },
+      "role": "Administrator"
+    },
+    {
+      "id": 2,
+      "status": "approved",
+      "user": {
+        "id": 2,
+        "name": "Andrews",
+        "lastName": "Frederick",
+        "phone": "+353 (916) 479-3284",
+        "email": "andrewsfrederick@kraggle.com"
+      },
+      "role": "Administrator"
+    },
+    {
+      "id": 3,
+      "status": "approved",
+      "user": {
+        "id": 3,
+        "name": "Lakeisha",
+        "lastName": "Byrd",
+        "phone": "+353 (850) 522-2668",
+        "email": "lakeishabyrd@kraggle.com"
+      },
+      "role": "Administrator"
+    },
+    {
+      "id": 4,
+      "status": "request",
+      "user": {
+        "id": 4,
+        "name": "Ebony",
+        "lastName": "Alston",
+        "phone": "+353 (919) 454-3297",
+        "email": "ebonyalston@kraggle.com"
+      },
+      "role": "Standard"
+    },
+    {
+      "id": 5,
+      "status": "approved",
+      "user": {
+        "id": 5,
+        "name": "Donaldson",
+        "lastName": "Vaughan",
+        "phone": "+353 (982) 412-2701",
+        "email": "donaldsonvaughan@kraggle.com"
+      },
+      "role": "Administrator"
+    }
+  ],
+  "invites": [
+    {
+      "id": 0,
+      "phone": "+353 (848) 499-3741",
+      "role": "Administrator"
+    },
+    {
+      "id": 1,
+      "phone": "+353 (854) 470-2292",
+      "role": "Administrator"
+    },
+    {
+      "id": 2,
+      "phone": "+353 (853) 516-2606",
+      "role": "Administrator"
+    },
+    {
+      "id": 3,
+      "phone": "+353 (882) 515-3753",
+      "role": "Standard"
+    },
+    {
+      "id": 4,
+      "phone": "+353 (978) 454-3833",
+      "role": "Standard"
+    },
+    {
+      "id": 5,
+      "phone": "+353 (941) 555-2234",
+      "role": "Standard"
+    },
+    {
+      "id": 6,
+      "phone": "+353 (833) 568-2264",
+      "role": "Administrator"
+    }
+  ]
+}
